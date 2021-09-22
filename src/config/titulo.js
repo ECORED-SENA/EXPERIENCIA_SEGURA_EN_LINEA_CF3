@@ -1,2 +1,2 @@
 module.exports =
-  'Componente Formativo con un nombre extremadamente largo y extenso'
+  'Riesgos asociados al uso prolongado de las nuevas tecnologías'

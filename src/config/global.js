@@ -4,8 +4,8 @@ export default {
       'Riesgos asociados al uso prolongado de las nuevas tecnologías',
     descripcionCurso:
       'El mundo digital brinda herramientas y servicios para el desarrollo personal y profesional de las personas, pero es indispensable conocer los riesgos asociados del uso de tecnologías que están en tendencia; este componente busca identificar y establecer los riesgos asociados al uso prolongado de la tecnología, su uso responsable, las repercusiones en la salud y los delitos, fraudes y amenazas.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -114,8 +114,7 @@ export default {
     {
       referencia:
         'Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil. (2017) <i>Cartillas de seguridad para internet.</i>',
-      link:
-        'https://cartilla.cert.br',
+      link: 'https://cartilla.cert.br',
     },
     {
       referencia:
@@ -126,7 +125,8 @@ export default {
     {
       referencia:
         'Edusalta. (2015). <i>Cyberbullying - Guía práctica para adultos.</i>',
-      link: 'http://www.edusalta.gov.ar/index.php/docman/secretaria-de-planeamiento-educativo/buenas-practicas-de-convivencia-institucional/2728-cyberbullying-guia-practica-para-adultos',
+      link:
+        'http://www.edusalta.gov.ar/index.php/docman/secretaria-de-planeamiento-educativo/buenas-practicas-de-convivencia-institucional/2728-cyberbullying-guia-practica-para-adultos',
     },
     {
       referencia:
@@ -137,8 +137,7 @@ export default {
     {
       referencia:
         'Fernández, J. (2018). <i>Ciberbullying. Guía rápida para la prevención del acoso</i>',
-      link:
-        'https://www.ararteko.eus/RecursosWeb/DOCUMENTOS/1/1_1218_3.pdf',
+      link: 'https://www.ararteko.eus/RecursosWeb/DOCUMENTOS/1/1_1218_3.pdf',
     },
     {
       referencia:
@@ -161,8 +160,7 @@ export default {
     {
       referencia:
         'OMPI, Organización Mundial de la Privacidad. (2021). <i>¿Qué es la propiedad intelectual?</i>',
-      link:
-        'https://www.wipo.int/about-ip/es/',
+      link: 'https://www.wipo.int/about-ip/es/',
     },
     {
       referencia:
@@ -173,8 +171,7 @@ export default {
     {
       referencia:
         'Sánchez, G. (2012). Delitos en internet: clases de fraudes y estafas y las medidas para prevenirlos. <i>Boletín de Información</i>, 324, 67-88.',
-      link:
-        'https://dialnet.unirioja.es/descarga/articulo/4198948.pdf',
+      link: 'https://dialnet.unirioja.es/descarga/articulo/4198948.pdf',
     },
   ],
   glosario: [
@@ -242,15 +239,19 @@ export default {
       texto:
         'Ciberbullying: Molina, M., Furnari, A., y Hagelstrom, I. (2017). <i>Guía de sensibilización sobre convivencia digital.</i>',
       tipo: 'Cartilla',
-      link: 'https://www.unicef.org/argentina/sites/unicef.org.argentina/files/2018-04/COM-Guia_ConvivenciaDigital_ABRIL2017.pdf',
+      link:
+        'https://www.unicef.org/argentina/sites/unicef.org.argentina/files/2018-04/COM-Guia_ConvivenciaDigital_ABRIL2017.pdf',
     },
     {
-      texto: 'Ciberbullying: Edusalta. (2015).  <i>Cyberbullying - Guía práctica para adultos.</i>',
+      texto:
+        'Ciberbullying: Edusalta. (2015).  <i>Cyberbullying - Guía práctica para adultos.</i>',
       tipo: 'Cartilla',
-      link: 'http://www.edusalta.gov.ar/index.php/docman/secretaria-de-planeamiento-educativo/buenas-practicas-de-convivencia-institucional/2728-cyberbullying-guia-practica-para-adultos',
+      link:
+        'http://www.edusalta.gov.ar/index.php/docman/secretaria-de-planeamiento-educativo/buenas-practicas-de-convivencia-institucional/2728-cyberbullying-guia-practica-para-adultos',
     },
     {
-      texto: 'Ciberbullying: Fernández, J. (2018). <i>CiberBullying. Guía rápida para la prevención del acoso.</i>',
+      texto:
+        'Ciberbullying: Fernández, J. (2018). <i>CiberBullying. Guía rápida para la prevención del acoso.</i>',
       tipo: 'Cartilla',
       link: 'https://www.ararteko.eus/RecursosWeb/DOCUMENTOS/1/1_1218_3.pdf',
     },
