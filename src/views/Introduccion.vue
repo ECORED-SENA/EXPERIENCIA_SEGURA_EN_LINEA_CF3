@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    .row.mb-5
+    .row.mb-5.slideInUp
       .col-lg-4
         figure.mb-5
           img(src="@/assets/curso/t0-i1.jpg", alt="hombre usando un teléfono celular")
