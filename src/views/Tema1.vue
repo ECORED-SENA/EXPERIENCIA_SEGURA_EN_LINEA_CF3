@@ -47,16 +47,23 @@
       h2 1.2  Riesgos y recomendaciones de buen uso
     .row.mb-5
       .col-lg-4
-        .animatedImage
+        .animatedImage(data-aos="flip-up")
           figure.mb-5
             img(src="@/assets/curso/t1-i2.png", alt="mujer usando un teléfono celular")
           .floatingCircle
           .floatingCircle2
-      .col-lg-8
+      .col-lg-8(data-aos="slide-up")
         p.mb-4.text-bold.blueT  Es importante conocer los riesgos de utilizar tecnologías digitales, y ser conscientes que hacer frente a ellos es un componente clave para tener una identidad digital. 
         p.mb-3  Las habilidades digitales no solo consisten en saber manejar un dispositivo a la perfección, sino también tener conciencia de que la seguridad de la información es igual a cuando se transita por un sector que no genera confianza y se toma las medidas necesarias para protegerse. En el mundo digital no es diferente, se debe cuidar que el uso de los dispositivos no genere una adicción digital, ya que en los últimos años ha desencadenado múltiples problemas físicos y mentales; entre los riesgos más comunes están:
 
-    //-- Aqui vienen las imagenes
+    .neg-margin-x.bg-curve.mb-5
+      .row.justify-content-center
+        .col-lg-10
+          figure.mb-5(data-aos="slide-up")
+            img(src="@/assets/curso/t1-info1.svg", alt="imagen decorativa")
+        .col-lg-10
+          figure.mb-5(data-aos="slide-up")
+            img(src="@/assets/curso/t1-info2.svg", alt="imagen decorativa")
 
     .row.mb-5
       .col-lg-3
@@ -163,7 +170,12 @@ export default {
 .wrap-infografic
   background-image: url('../assets/curso/bg-gray.svg')
   background-repeat: no-repeat
-  background-size: cover
+  background-size: contain
   background-position: center
-  padding: 4rem 3rem
+  padding: 2rem 3rem 0 3rem
+.bg-curve
+  background-image: url('../assets/curso/bg-info.svg')
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center
 </style>
