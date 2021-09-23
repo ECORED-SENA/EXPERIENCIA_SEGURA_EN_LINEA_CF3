@@ -33,27 +33,51 @@
           img(src="@/assets/curso/t5-i3.svg", alt="imagen decorativa")
       .col-lg-9(data-aos="flip-up")
         p Las personas no pueden dimensionar los alcances que pueden llegar a tener lo que se publica en la red y que puede llegar a millones de usuarios en cuestión de segundos. El ciberacoso se ha vuelto una normalidad cuando se navega en internet, puesto que se presenta de manera pasiva (cuando se ve alguna imagen cuyo fin sea hacer gracia) y de manera activa (cuando ven comentarios xenófobos y ofensivos en comentarios o reseñas) por lo cual ya no es ningún tabú y, de hecho, se divide en varias facciones para identificar su tipo, tal como se relaciona a continuación: 
-        
+       
     .neg-margin-x.mb-5.bg-curve
-      .row
-        .col-lg-12
-          SlyderA
-            .row
-              .col-md-6.mb-4.mb-md-0
-                .h4 Ciberbullying
-                p Se caracteriza por presentarse generalmente entre menores de edad de manera intencional y reiterada por medio de insultos y amenazas.          
-              .col-md-6
-                figure
-                  img(src='@/assets/curso/t5-s1.svg', alt='Imagen decorativa')
+      .row.justify-content-center
+        .col-lg-11
+          .tarjeta.p-5
+            SlyderA
+              .row
+                .col-md-6.mb-4.mb-md-0
+                  .h4 <i>Ciberbullying</i>
+                  p Se caracteriza por presentarse generalmente entre menores de edad de manera intencional y reiterada por medio de insultos y amenazas.          
+                .col-md-6
+                  figure
+                    img(src='@/assets/curso/t5-s1.svg', alt='Imagen decorativa')
 
-            .row
-              .col-md-6.mb-4.mb-md-0
-                .h4 Sextorsión
-                p Se caracteriza por presentarse generalmente entre menores de edad de manera intencional y reiterada por medio de insultos y amenazas.          
-              .col-md-6
-                figure
-                  img(src='@/assets/curso/t5-s2.jpg', alt='Imagen decorativa')
+              .row
+                .col-md-6.mb-4.mb-md-0
+                  .h4 Sextorsión
+                  p Se caracteriza, principalmente, por la extorsión con intenciones de carácter sexual hacia la víctima amenazando con exponer contenido sexual de ella.       
+                .col-md-6
+                  figure
+                    img(src='@/assets/curso/t5-s2.jpg', alt='Imagen decorativa')
 
+              .row
+                .col-md-6.mb-4.mb-md-0
+                  .h4 <i>Grooming</i>
+                  p Es el acoso que realiza un adulto hacia un menor de edad con intenciones sexuales. Generalmente el mayor de edad se hace pasar por menor de edad para empatizar con la víctima y así ganar su confianza.       
+                .col-md-6
+                  figure
+                    img(src='@/assets/curso/t5-s3.svg', alt='Imagen decorativa')
+
+              .row
+                .col-md-6.mb-4.mb-md-0
+                  .h4 Ciberviolencia de género
+                  p Se presenta por una persona o grupo de personas hacia otra u otros del sexo opuesto, en el que se ejerce violencia a través de insultos, acoso, control, ataques, chantaje.    
+                .col-md-6
+                  figure
+                    img(src='@/assets/curso/t5-s4.jpg', alt='Imagen decorativa')          
+                    
+              .row
+                .col-md-6.mb-4.mb-md-0
+                  .h4 <i>Sexting</i>
+                  p Consiste en el envío de imágenes de índole sexual entre dos personas, generalmente de manera consensuada. 
+                .col-md-6
+                  figure
+                    img(src='@/assets/curso/t5-s5.jpg', alt='Imagen decorativa')                                   
 
     p.mb-5  El <i>ciberbullying</i> tiene diferentes características las cuales permite ser consciente que esta práctica es más común de lo que crees, la era digital es un hecho y ha cambiado muchas formas de pensamiento, es importante conocer cuáles son sus características más relevantes y poner “stop” a esas malas prácticas de uso de las nuevas tecnologías emergentes y construir una identidad digital pertinente y segura para todas las personas. A continuación, se relacionan estas características:
     .row.mb-5
@@ -100,8 +124,14 @@
 
     .row.mb-5.justify-content-center
       .col-lg-3
-        //-- Aqui vienen los cards
-
+        figure.mb-5(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t5-c4.svg", alt="imagen decorativa")
+      .col-lg-3
+        figure.mb-5(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t5-c5.svg", alt="imagen decorativa")
+      .col-lg-3
+        figure.mb-5(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t5-c6.svg", alt="imagen decorativa")          
 
 </template>
 
@@ -129,8 +159,8 @@ export default {
 .bg-curve
   background-image: url('../assets/curso/bg-curves2.svg')
   background-repeat: no-repeat
-  background-size: contain
+  background-size: auto
   background-position: center
-  padding-left: 4rem
-  padding-right: 4rem
+  padding-top: 6rem
+  padding-bottom: 6rem
 </style>
