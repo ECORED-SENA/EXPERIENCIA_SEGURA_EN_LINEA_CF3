@@ -126,29 +126,13 @@
           p.mb-0 Ese exceso del uso de redes sociales, se puede dar por entendido cuando la cantidad de horas de uso afecta al normal desarrollo de la vida cotidiana (Castellana, Sánchez-Carbonell, Graner y Beranuy, 2007; Viñas, 2009) y no solo por lo que se refiere al tiempo invertido, sino también por el impacto que causa en aspectos personales y sociales de la vida, donde se acerca a los que están lejos y se aleja a los que están cerca, tal como suelen decir los eruditos en el tema.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-    Muestras
   
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     // variables de vue
   }),
