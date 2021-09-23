@@ -33,8 +33,27 @@
           img(src="@/assets/curso/t5-i3.svg", alt="imagen decorativa")
       .col-lg-9(data-aos="flip-up")
         p Las personas no pueden dimensionar los alcances que pueden llegar a tener lo que se publica en la red y que puede llegar a millones de usuarios en cuestión de segundos. El ciberacoso se ha vuelto una normalidad cuando se navega en internet, puesto que se presenta de manera pasiva (cuando se ve alguna imagen cuyo fin sea hacer gracia) y de manera activa (cuando ven comentarios xenófobos y ofensivos en comentarios o reseñas) por lo cual ya no es ningún tabú y, de hecho, se divide en varias facciones para identificar su tipo, tal como se relaciona a continuación: 
+        
+    .neg-margin-x.mb-5.bg-curve
+      .row
+        .col-lg-12
+          SlyderA
+            .row
+              .col-md-6.mb-4.mb-md-0
+                .h4 Ciberbullying
+                p Se caracteriza por presentarse generalmente entre menores de edad de manera intencional y reiterada por medio de insultos y amenazas.          
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/t5-s1.svg', alt='Imagen decorativa')
 
-    //-- Aqui viene el slider
+            .row
+              .col-md-6.mb-4.mb-md-0
+                .h4 Sextorsión
+                p Se caracteriza por presentarse generalmente entre menores de edad de manera intencional y reiterada por medio de insultos y amenazas.          
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/t5-s2.jpg', alt='Imagen decorativa')
+
 
     p.mb-5  El <i>ciberbullying</i> tiene diferentes características las cuales permite ser consciente que esta práctica es más común de lo que crees, la era digital es un hecho y ha cambiado muchas formas de pensamiento, es importante conocer cuáles son sus características más relevantes y poner “stop” a esas malas prácticas de uso de las nuevas tecnologías emergentes y construir una identidad digital pertinente y segura para todas las personas. A continuación, se relacionan estas características:
     .row.mb-5
@@ -49,7 +68,39 @@
           img(src="@/assets/curso/t5-ic3.svg", alt="imagen decorativa")
 
     p.mb-5  El acoso incorpora diferentes actores en los cuales se relacionan roles específicos, esto para que se materialice y de lo cual depende la forma cómo se lleve a cabo, ya sea por:
-       
+    .row.mb-5
+      .col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t5-c1.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Hostigamiento
+              p Envío de fotografías, imágenes, memes tratando de denigrar a las víctimas.
+              
+      .col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t5-c2.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Exclusión
+              p Bloqueo de páginas o accesos a sitios, foros, bloqueos de chat o plataformas digitales.
+      .col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t5-c3.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Manipulación
+              p Uso de información sensible, ingreso a perfiles digitales que perjudiquen la reputación digital de la víctima.
+    .row.mb-5
+      .col-lg-2
+        figure.mb-5(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t5-ic4.svg", alt="imagen decorativa")
+      .col-lg-10(data-aos="slide-right")
+        p Usualmente los agresores se esconden bajo el anonimato, perfiles con datos falsos con o sin experticia en temas informáticos y la huella digital con la que actúan siempre es con información no real, es por ello que se hace necesario aprender a identificar los actores que intervienen en el ciberacoso:
+
+    .row.mb-5.justify-content-center
+      .col-lg-3
+        //-- Aqui vienen los cards
 
 
 </template>
@@ -75,4 +126,11 @@ export default {
 .floatingCircle, .floatingCircle2
   background-image: url('../assets/curso/circle1.svg')
   background-size: cover
+.bg-curve
+  background-image: url('../assets/curso/bg-curves2.svg')
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center
+  padding-left: 4rem
+  padding-right: 4rem
 </style>
