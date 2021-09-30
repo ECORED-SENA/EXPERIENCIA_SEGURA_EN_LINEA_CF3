@@ -14,7 +14,7 @@
           .floatingCircle
           .floatingCircle2
       .col-lg-8
-        p.mb-3.text-bold.blueT  Según la Unicef (2010), para iniciar a describir este fenómeno muy popular, se hace indispensable conocer la definición del término “<i>bullying</i>”, que se traduce en sinónimos como atemorizar, excluir, golpear, insultar, intimidar, ridiculizar, provocar o incomodar a una persona, 
+        p.mb-3.text-bold.blueT  Según la Unicef (2010), para iniciar a describir este fenómeno muy popular, se hace indispensable conocer la definición del término “<i>bullying</i>”, que se traduce en sinónimos como atemorizar, excluir, golpear, insultar, intimidar, ridiculizar, provocar o incomodar a una persona.
         p Es por ello que hay que estar atentos a los signos de alerta que pueden presentar los niños, niñas, adolescentes y hasta adultos frente a estos temas de interés para el buen desarrollo socio emocional de una persona, más aún cuando los medios electrónicos presentes están en el diario vivir de una persona por medio de redes sociales y otras herramientas que son de uso cotidiano.
 
     .row.mb-5.justify-content-center

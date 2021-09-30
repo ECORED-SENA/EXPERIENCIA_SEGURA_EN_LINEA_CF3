@@ -24,7 +24,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/t2-i1.jpg')})`}"
           )
 
-    p.mb-5  A continuación, se relacionan los fraudes electrónicos más populares que segundo a segundo se están cometiendo detrás de una pantalla, como el robo de identidad, el phishing, el vishing y el smishing:
+    p.mb-5  A continuación, se relacionan los fraudes electrónicos más populares que segundo a segundo se están cometiendo detrás de una pantalla, como el robo de identidad, el <i>phishing</i>, el <i>vishing</i> y el <i>smishing</i>:
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Robo de identidad" :icono="require('@/assets/curso/t2-ic2.svg')")
