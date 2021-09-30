@@ -17,16 +17,17 @@
           .floatingCircle
           .floatingCircle2
 
-    .row.mb-5.justify-content-center
+    .row.mb-4.justify-content-center
       .col-lg-10
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5.ltr(data-aos="flip-up")
           .bloque-texto-g__texto.p-4
-            p.mb-0 La virtualización de muchas actividades ha transformado las bases de la sociedad y es comúnmente conocida como sociedad de la información y del conocimiento, que radica su fundamento en utilizar dispositivos digitales para las tareas diarias tales como comprar, vender, realizar operaciones financieras entre otras, a través de un solo clic.
+            p.mb-0 Los sitios que se frecuentan en internet muchas veces modifican las condiciones y políticas de privacidad y en la era actual, hay una cultura de aceptar sin lectura previa es más común de lo que parece exponiendo datos que antes estaban con acceso restringido.
 
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t4-i2.jpg')})`}"
           )
-
+    p.mb-5  El mundo digital no es ajeno a riesgos y amenazas a las cuales un usuario está expuesto, pues la información es muy susceptible a que sea usada por terceros para sus propios fines y que son delictivos, esto hace que la privacidad sea un flanco para personas inescrupulosas que están prestas para vulnerar la seguridad digital; entre las prácticas más comunes que pueden afectar la seguridad y privacidad, se pueden listar:
+  
     TabsA.color-acento-contenido.mb-5
       .tarjeta.color-acento-contenido.p-4(titulo="Oversharing")
         .row.align-items-center
@@ -72,6 +73,15 @@
           .col-lg-8
             .h4 Mal uso de la tecnología
             p.mb-3  La saturación de información, el analfabetismo tecnológico y las desviaciones psicopáticas son algunas de las características propias del mal uso de recursos informáticos; las brechas generacionales desde los nativos tecnológicos hasta los que tuvieron que sufrir esta transición digital han hecho que la privacidad se vea afectada por no poder usar bien la tecnología, debes tener en cuenta que la era digital es un hecho y hay que estar preparados para que la información no caiga en manos de terceros.
+      
+      .tarjeta.color-acento-contenido.p-4(titulo="Datos en manos de terceros")
+        .row
+          .col-lg-4
+            figure.mb-5.slideInLeft
+              img(src="@/assets/curso/t4-i8.jpg", alt="imagen decorativa")
+          .col-lg-8
+            .h4 Datos en manos de terceros
+            p.mb-3  Todos los datos que compartes en internet están sujetos a ser vulnerados, ya que los servicios que se usan cotidianamente solicitan gran cantidad de información y estos son compartidos entre proveedores para hacerte llegar productos y servicios según tus preferencias, aunque esto tiene connotación legal, los datos reposan en sitios que no cumplen con las políticas de privacidad y es allí cuando tu información sensible puede ser pública afectando tu seguridad, es por ello que cada vez que te solicitan los datos personales verifica fuentes y así no te arrepientas de lo que se comparte.
 
       .tarjeta.color-acento-contenido.p-4(titulo="Robo o pérdida de dispositivos")
         .row

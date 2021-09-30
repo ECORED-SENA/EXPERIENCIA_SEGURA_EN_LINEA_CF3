@@ -125,6 +125,8 @@
         .cajon.color-acento-botones.p-4
           p.mb-0 Ese exceso del uso de redes sociales, se puede dar por entendido cuando la cantidad de horas de uso afecta al normal desarrollo de la vida cotidiana (Castellana, Sánchez-Carbonell, Graner y Beranuy, 2007; Viñas, 2009) y no solo por lo que se refiere al tiempo invertido, sino también por el impacto que causa en aspectos personales y sociales de la vida, donde se acerca a los que están lejos y se aleja a los que están cerca, tal como suelen decir los eruditos en el tema.
 
+    p.mb-5  Por ello, se relacionan las consecuencias del uso prolongado frente a la utilización prolongada de las redes sociales, a saber:
+
 
   
 </template>
