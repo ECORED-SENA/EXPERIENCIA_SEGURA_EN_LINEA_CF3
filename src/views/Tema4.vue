@@ -78,7 +78,7 @@
         .row
           .col-lg-4
             figure.mb-5.slideInLeft
-              img(src="@/assets/curso/t4-i8.jpg", alt="imagen decorativa")
+              img(src="@/assets/curso/t4-i9.jpg", alt="imagen decorativa")
           .col-lg-8
             .h4 Datos en manos de terceros
             p.mb-3  Todos los datos que compartes en internet están sujetos a ser vulnerados, ya que los servicios que se usan cotidianamente solicitan gran cantidad de información y estos son compartidos entre proveedores para hacerte llegar productos y servicios según tus preferencias, aunque esto tiene connotación legal, los datos reposan en sitios que no cumplen con las políticas de privacidad y es allí cuando tu información sensible puede ser pública afectando tu seguridad, es por ello que cada vez que te solicitan los datos personales verifica fuentes y así no te arrepientas de lo que se comparte.
