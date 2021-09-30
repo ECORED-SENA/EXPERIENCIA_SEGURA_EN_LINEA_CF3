@@ -124,14 +124,30 @@
 
     .row.mb-5.justify-content-center
       .col-lg-3
-        figure.mb-5(data-aos="flip-up")
-          img.nW(src="@/assets/curso/t5-c4.svg", alt="imagen decorativa")
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t5-c4.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Agresor
+              p Usuario que pretende humillar o denigrar a una persona usando medios digitales y plataformas electrónicas.
+
       .col-lg-3
-        figure.mb-5(data-aos="flip-up")
-          img.nW(src="@/assets/curso/t5-c5.svg", alt="imagen decorativa")
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t5-c5.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Víctima
+              p Usuario que recibe las humillaciones, discriminaciones o comentarios lascivos por parte de personas que atacan directamente en sus post o publicaciones.
+
       .col-lg-3
-        figure.mb-5(data-aos="flip-up")
-          img.nW(src="@/assets/curso/t5-c6.svg", alt="imagen decorativa")          
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t5-c6.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.mb-3.py-3.h3 Espectadores
+              p Son las personas que miran las humillaciones y agresiones que han hecho a las víctimas, aunque es un ente pasivo, hace parte de la cadena del ciberacoso y muchas veces se intimidan frente al acosador o agresor apoyando directa o indirectamente la agresión.
+
+   
 
 </template>
 
