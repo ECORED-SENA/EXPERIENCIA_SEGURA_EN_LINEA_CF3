@@ -141,12 +141,6 @@ export default {
     },
     {
       referencia:
-        'Gallego, H. (2021). <i>¿Sabes en que consiste la tecnotoxicopatología?</i>',
-      link:
-        'https://clinicalasamericas.lasamericas.com.co/Promoción-y-prevención/Blog/191sabes-en-qu233-consiste-la-tecnotoxicopatolog237a',
-    },
-    {
-      referencia:
         'Iniseg. (2018). <i>Ciberseguridad al día, qué es oversharing, la sobreexposición en redes que nos persigue.</i>',
       link:
         'https://www.iniseg.es/blog/ciberseguridad/oversharing-conocelo-y-frenalo/',
