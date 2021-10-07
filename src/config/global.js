@@ -203,7 +203,7 @@ export default {
     {
       termino: 'Privacidad',
       significado:
-        'información sensible y privada que se comparte en internet para preservar la integridad de los datos y la información esta debe ser protegida a través de configuraciones y canales de privacidad de la información.',
+        'es el tratamiento que se debe brindar a la información sensible que se comparte en Internet. Esta información debe protegerse, a través de configuraciones y canales que permitan  preservar la integridad de los datos que la constituyen.',
     },
     {
       termino: 'Riesgo',
