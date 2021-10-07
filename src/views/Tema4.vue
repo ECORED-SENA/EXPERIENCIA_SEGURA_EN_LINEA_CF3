@@ -8,7 +8,7 @@
       h1 Amenazas a la privacidad
     .row.mb-5
       .col-lg-8.slideInLeft
-        p.mb-3.text-bold.blueT  Tanto en las redes sociales como en internet en general, se está propenso a que se filtren los datos personales debido a que se acepten términos y condiciones sin leer previamente como en un ciberataque realizado por un pirata informático o los tan mencionados hackers.
+        p.mb-3.text-bold.blueT  Tanto en las redes sociales como en internet en general, se está propenso a que se filtren los datos personales debido a que se acepten términos y condiciones sin leer previamente como en un ciberataque realizado por un pirata informático o los tan mencionados <i>hackers</i>.
         p.mb-3  La privacidad en sí comprende las actividades que se llevan a cabo en un ámbito reservado; en internet se entiende como el control sobre la información para limitar la cantidad de personas autorizadas a acceder a la misma. Esto incluye datos personales, fotografías, documentos, conversaciones, entre otras.
       .col-lg-4
         .animatedImage.slideInRight

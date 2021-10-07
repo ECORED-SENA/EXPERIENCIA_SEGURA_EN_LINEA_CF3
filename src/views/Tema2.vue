@@ -62,7 +62,7 @@
           .col-md-6.mb-4.mb-md-0
             .h4 <i>Smishing</i>
             p.mb-3 Es un poco parecida a la anterior, la diferencia es que esta técnica de fraude la realizan por mensajería instantánea o texto en tus dispositivos móviles, donde se invita a la víctima a hacer clic en enlaces que no son verificados, para obtener supuestos bonos, premios y ofertas, y entregues información personal y accedan a tus contraseñas, claves, tarjetas de crédito, entre otras.
-            p.mb-3  Nadie está exento de caer en estas trampas, porque usan técnicas de ingeniería social y engaño para estafar y robar a las personas, pues existen múltiples formas de robo en plataformas online, es por ello que debes estar alerta a cualquier signo o alarma de mensajes o llamadas que recibas para poder proteger la información.
+            p.mb-3  Nadie está exento de caer en estas trampas, porque usan técnicas de ingeniería social y engaño para estafar y robar a las personas, pues existen múltiples formas de robo en plataformas <i>online</i>, es por ello que debes estar alerta a cualquier signo o alarma de mensajes o llamadas que recibas para poder proteger la información.
         
           .col-md-5
             figure.slideInRight

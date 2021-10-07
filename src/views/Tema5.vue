@@ -15,13 +15,13 @@
           .floatingCircle2
       .col-lg-8
         p.mb-3.text-bold.blueT  Según la Unicef (2010), para iniciar a describir este fenómeno muy popular, se hace indispensable conocer la definición del término “<i>bullying</i>”, que se traduce en sinónimos como atemorizar, excluir, golpear, insultar, intimidar, ridiculizar, provocar o incomodar a una persona.
-        p Es por ello que hay que estar atentos a los signos de alerta que pueden presentar los niños, niñas, adolescentes y hasta adultos frente a estos temas de interés para el buen desarrollo socio emocional de una persona, más aún cuando los medios electrónicos presentes están en el diario vivir de una persona por medio de redes sociales y otras herramientas que son de uso cotidiano.
+        p Es por ello que hay que estar atentos a los signos de alerta que pueden presentar los niños, niñas, adolescentes y hasta adultos frente a estos temas de interés para el buen desarrollo socioemocional de una persona, más aún cuando los medios electrónicos presentes están en el diario vivir de una persona por medio de redes sociales y otras herramientas que son de uso cotidiano.
 
     .row.mb-5.justify-content-center
       .col-lg-10
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5.custom-cardBlock(data-aos="flip-up")
           .bloque-texto-g__texto.p-4
-            p.mb-0 Es importante estar atentos a los cambios en comportamiento, lenguaje o pensamiento, ya que el hostigamiento online es una práctica bastante común entre los usuarios de internet, incluso se presenta de forma pasiva sin darnos cuenta. <b>El <i>ciberbullying</i> tiene bastantes semejanzas con el <i>bullying</i> tradicional (discriminación), aunque su manifestación y características son propias y es fundamental conocerlas para una sana convivencia social-digital pacífica y libre de discriminación.</b>
+            p.mb-0 Es importante estar atentos a los cambios en comportamiento, lenguaje o pensamiento, ya que el hostigamiento <i>online</i> es una práctica bastante común entre los usuarios de internet, incluso se presenta de forma pasiva sin darnos cuenta. <b>El <i>ciberbullying</i> tiene bastantes semejanzas con el <i>bullying</i> tradicional (discriminación), aunque su manifestación y características son propias y es fundamental conocerlas para una sana convivencia social-digital pacífica y libre de discriminación.</b>
 
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t5-i2.jpg')})`}"
@@ -107,45 +107,45 @@
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.mb-3.py-3.h3 Exclusión
-              p Bloqueo de páginas o accesos a sitios, foros, bloqueos de chat o plataformas digitales.
+              p.small Bloqueo de páginas o accesos a sitios, foros, bloqueos de chat o plataformas digitales.
       .col-lg-4
         .nav-holder.align-items-center(data-aos="flip-up")
           img(src="@/assets/curso/t5-c3.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.mb-3.py-3.h3 Manipulación
-              p Uso de información sensible, ingreso a perfiles digitales que perjudiquen la reputación digital de la víctima.
+              p.small Uso de información sensible, ingreso a perfiles digitales que perjudiquen la reputación digital de la víctima.
     .row.mb-5
       .col-lg-2
         figure.mb-5(data-aos="flip-up")
           img.nW(src="@/assets/curso/t5-ic4.svg", alt="imagen decorativa")
       .col-lg-10(data-aos="slide-right")
-        p Usualmente los agresores se esconden bajo el anonimato, perfiles con datos falsos con o sin experticia en temas informáticos y la huella digital con la que actúan siempre es con información no real, es por ello que se hace necesario aprender a identificar los actores que intervienen en el ciberacoso:
+        p.small Usualmente los agresores se esconden bajo el anonimato, perfiles con datos falsos con o sin experticia en temas informáticos y la huella digital con la que actúan siempre es con información no real, es por ello que se hace necesario aprender a identificar los actores que intervienen en el ciberacoso:
 
     .row.mb-5.justify-content-center
-      .col-lg-3
+      .col-md-4.col-lg-3
         .nav-holder.align-items-center(data-aos="flip-up")
           img(src="@/assets/curso/t5-c4.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
-              p.mb-3.py-3.h3 Agresor
-              p Usuario que pretende humillar o denigrar a una persona usando medios digitales y plataformas electrónicas.
+              p.h3 Agresor
+              p.small Usuario que pretende humillar o denigrar a una persona usando medios digitales y plataformas electrónicas.
 
-      .col-lg-3
+      .col-md-4.col-lg-3
         .nav-holder.align-items-center(data-aos="flip-up")
           img(src="@/assets/curso/t5-c5.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
-              p.mb-3.py-3.h3 Víctima
-              p Usuario que recibe las humillaciones, discriminaciones o comentarios lascivos por parte de personas que atacan directamente en sus post o publicaciones.
+              p.h3 Víctima
+              p.small Usuario que recibe las humillaciones, discriminaciones o comentarios lascivos por parte de personas que atacan directamente en sus post o publicaciones.
 
-      .col-lg-3
+      .col-md-4.col-lg-3
         .nav-holder.align-items-center(data-aos="flip-up")
           img(src="@/assets/curso/t5-c6.svg", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
-              p.mb-3.py-3.h3 Espectadores
-              p Son las personas que miran las humillaciones y agresiones que han hecho a las víctimas, aunque es un ente pasivo, hace parte de la cadena del ciberacoso y muchas veces se intimidan frente al acosador o agresor apoyando directa o indirectamente la agresión.
+              p.h3 Espectadores
+              p.small Son las personas que miran las humillaciones y agresiones que han hecho a las víctimas, aunque es un ente pasivo, hace parte de la cadena del ciberacoso y muchas veces se intimidan frente al acosador o agresor apoyando directa o indirectamente la agresión.
 
    
 
